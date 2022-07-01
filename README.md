@@ -1,4 +1,4 @@
-# Problem: Levels and Stars:
+# Problem: Levels and Stars
 
 **Problem description:**
 
